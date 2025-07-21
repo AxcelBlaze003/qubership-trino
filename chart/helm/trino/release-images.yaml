@@ -1,2 +1,2 @@
-qubershipTrinoImage: ghcr.io/axcelblaze003/qubership-trino:main
-qubershipTrinoTransferImage: ghcr.io/axcelblaze003/qubership-trino-transfer:main
+qubershipTrinoImage: ghcr.io/axcelblaze003/qubership-trino:0.0.8
+qubershipTrinoTransferImage: ghcr.io/axcelblaze003/qubership-trino-transfer:0.0.8
