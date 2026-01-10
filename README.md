@@ -5,6 +5,7 @@
 * [Architecture](docs/public/architecture.md)
 * [Installation Guide](docs/public/installation.md)
 * [Helm Chart Customizations](#helm-chart-customizations)
+* test
 
 ## Overview
 Trino is a distributed SQL query engine for Big Data analytics.  
